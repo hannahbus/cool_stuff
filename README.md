@@ -4,3 +4,4 @@
 4. Profiles of Individual Radicalization in the United States (PIRUS): https://www.start.umd.edu/data-tools/profiles-individual-radicalization-united-states-pirus 
 5. Stanford Mass Shootings in America https://github.com/StanfordGeospatialCenter/MSA 
 6. FBI Crime Data: https://crime-data-explorer.app.cloud.gov/# 
+7. Citizen's trust into scientiests: https://figshare.com/articles/dataset/CAUCP_4Waves_dta/14743575 
