@@ -6,3 +6,4 @@
 6. FBI Crime Data: https://crime-data-explorer.app.cloud.gov/# 
 7. Citizen's trust into scientists: https://figshare.com/articles/dataset/CAUCP_4Waves_dta/14743575 
 8. Twitter Research API: https://developer.twitter.com/en/products/twitter-api/academic-research 
+9. Yale Climate Opinion Maps: https://climatecommunication.yale.edu/visualizations-data/ycom-us/
