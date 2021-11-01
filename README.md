@@ -13,3 +13,4 @@ Here is a compilation of data and online tools I deem interesting.
 9. Yale Climate Opinion Maps: https://climatecommunication.yale.edu/visualizations-data/ycom-us/
 10. National Incident-Based Reporting System (NIBRS) Data, 1991-2019 https://www.openicpsr.org/openicpsr/project/118281/version/V4/view;jsessionid=30D4C67AAA3A0328AF958D7C6905C0D7
 11. Uniform Crime Reporting Program Data: https://www.openicpsr.org/openicpsr/project/100699/version/V8/view
+12. PRISM Climate Data: https://prism.oregonstate.edu/
