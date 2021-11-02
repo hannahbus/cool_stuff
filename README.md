@@ -2,6 +2,8 @@
 
 Here is a compilation of data and online tools I deem interesting. 
 
+## Data 
+
 ### Environment
 1. FEMA Flood Map Service: https://msc.fema.gov/portal/resources/hazus
 2. Yale Climate Opinion Maps: https://climatecommunication.yale.edu/visualizations-data/ycom-us/
@@ -20,3 +22,6 @@ Here is a compilation of data and online tools I deem interesting.
 3. Citizen's trust into scientists: https://figshare.com/articles/dataset/CAUCP_4Waves_dta/14743575 
 4. Twitter Research API: https://developer.twitter.com/en/products/twitter-api/academic-research 
 
+## Tools 
+
+1. vaderSentiment https://github.com/cjhutto/vaderSentiment  
