@@ -25,3 +25,4 @@ Here is a compilation of data and online tools I deem interesting.
 ## Tools 
 
 1. vaderSentiment https://github.com/cjhutto/vaderSentiment  
+2. Heat Forecasting Tool: https://www.weather.gov/safety/heat-index
