@@ -22,7 +22,8 @@ Here is a compilation of data and online tools I deem interesting.
 3. Citizen's trust into scientists: https://figshare.com/articles/dataset/CAUCP_4Waves_dta/14743575 
 4. Twitter Research API: https://developer.twitter.com/en/products/twitter-api/academic-research 
 5. Crimeo Uplift Dataset: https://ailab.criteo.com/criteo-uplift-prediction-dataset/
-6. Facebook's Publicly Available API: https://developers.facebook.com/docs/marketing-apis
+6. Facebook's Publicly Available Marketing API: https://developers.facebook.com/docs/marketing-apis
+7. Instagram Ads API: https://developers.facebook.com/docs/marketing-api/guides/instagramads/
 
 ## Tools 
 
