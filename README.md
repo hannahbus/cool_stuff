@@ -23,7 +23,8 @@ Here is a compilation of data and online tools I deem interesting.
 4. Twitter Research API: https://developer.twitter.com/en/products/twitter-api/academic-research 
 5. Crimeo Uplift Dataset: https://ailab.criteo.com/criteo-uplift-prediction-dataset/
 6. Facebook's Publicly Available Marketing API: https://developers.facebook.com/docs/marketing-apis
-7. Instagram Ads API: https://developers.facebook.com/docs/marketing-api/guides/instagramads/
+7. Instagram Ads API: https://developers.facebook.com/docs/marketing-api/guides/instagramads/ 
+8.  IRI shopper panel + the IRI MedProfiler Survey
 
 ## Tools 
 
