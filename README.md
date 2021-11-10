@@ -26,6 +26,7 @@ Here is a compilation of data and online tools I deem interesting.
 7. Instagram Ads API: https://developers.facebook.com/docs/marketing-api/guides/instagramads/ 
 8.  IRI shopper panel + the IRI MedProfiler Survey
 9.  Lobbying Expenditures Congress: Center for Responsive Politics
+10. Gentzkow: https://gentzkow.people.stanford.edu/data 
 
 ## Tools 
 
