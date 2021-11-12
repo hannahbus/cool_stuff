@@ -8,7 +8,7 @@ Here is a compilation of data and online tools I deem interesting.
 1. FEMA Flood Map Service: https://msc.fema.gov/portal/resources/hazus
 2. Yale Climate Opinion Maps: https://climatecommunication.yale.edu/visualizations-data/ycom-us/
 3. PRISM Climate Data: https://prism.oregonstate.edu/
-4. Map of Extreme Weather Events: https://www.dwd.de/EN/ourservices/rcccm/int/rcccm_int_eev.html
+4. Map of Extreme Weather Events: https://www.dwd.de/EN/ourservices/rcccm/int/rcccm_int_eev.html 
 
 ### Crime 
 1. Profiles of Individual Radicalization in the United States (PIRUS): https://www.start.umd.edu/data-tools/profiles-individual-radicalization-united-states-pirus 
@@ -28,6 +28,7 @@ Here is a compilation of data and online tools I deem interesting.
 8.  IRI shopper panel + the IRI MedProfiler Survey
 9.  Lobbying Expenditures Congress: Center for Responsive Politics
 10. Gentzkow: https://gentzkow.people.stanford.edu/data 
+11. International Disasters Database: https://www.emdat.be/ 
 
 ## Tools 
 
