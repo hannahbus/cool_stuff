@@ -9,6 +9,7 @@ Here is a compilation of data and online tools I deem interesting.
 2. Yale Climate Opinion Maps: https://climatecommunication.yale.edu/visualizations-data/ycom-us/
 3. PRISM Climate Data: https://prism.oregonstate.edu/
 4. Map of Extreme Weather Events: https://www.dwd.de/EN/ourservices/rcccm/int/rcccm_int_eev.html 
+5. Damage Switzerland: https://www.wsl.ch/de/naturgefahren/hochwasser-und-ueberschwemmung/unwetterschadens-datenbank.html
 
 ### Crime 
 1. Profiles of Individual Radicalization in the United States (PIRUS): https://www.start.umd.edu/data-tools/profiles-individual-radicalization-united-states-pirus 
