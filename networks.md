@@ -32,6 +32,10 @@ Studies homophily in legislative networks.
 
 Analyze networks of the Italian-American Mafia; cool data! 
 
+"Team Players: How Social Skills Improve Team Performance" (2021) available [here](https://onlinelibrary.wiley.com/doi/full/10.3982/ECTA18461?campaign=woletoc)
+
+Team players improve team performance, experimental evidence.
+
 ## Network Interaction 
 
 "Non-parametric estimation of reciprocity and triadic effects in relational event networks" (2021) available [here](https://www.sciencedirect.com/science/article/pii/S0378873321000666?dgcid=raven_sd_via_email)
