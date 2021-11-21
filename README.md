@@ -30,6 +30,7 @@ Here is a compilation of data and online tools I deem interesting.
 9.  Lobbying Expenditures Congress: Center for Responsive Politics
 10. Gentzkow: https://gentzkow.people.stanford.edu/data 
 11. International Disasters Database: https://www.emdat.be/ 
+12. The Shift Project Data: https://shift.hks.harvard.edu/about/ 
 
 ## Tools 
 
