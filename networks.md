@@ -1,6 +1,6 @@
 # Papers 
 
-Here is a more or less random compilation of network-related papers, I came across. Selection criteria are (i) cool research question (ii) cool data, and (ii) cool methods. The list is under study revision.  
+Here is a more or less random compilation of network-related papers, I came across. Selection criteria are (i) cool research question (ii) cool data, and (ii) cool methods. The list is under steady revision.  
 
 ## Measuring networks 
 
@@ -37,5 +37,9 @@ Analyze networks of the Italian-American Mafia; cool data!
 "Non-parametric estimation of reciprocity and triadic effects in relational event networks" (2021) available [here](https://www.sciencedirect.com/science/article/pii/S0378873321000666?dgcid=raven_sd_via_email)
 
 Seek to understand social interactions dynamic within the network - reciprocity (e.g. return a favour) - and triadic effects (form the missing link to build a triade).
+
+## Misc. 
+
+"Does the spatial distribution of social ties impact neighborhood and city attachment? Differentials among urban/rural contexts" (2021) available [here](https://www.sciencedirect.com/science/article/pii/S0378873321000824?dgcid=raven_sd_via_email#sec0030) 
 
 
