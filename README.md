@@ -36,6 +36,7 @@ Here is a compilation of data and online tools I deem interesting.
 
 1. CILS4EU data: https://www.cils4.eu/ 
 2. Repository: http://networkdata.ics.uci.edu/index.html
+3. American Social Fabric Project (ASFP): spatially stratified, large-scale egocentric network (spatial locations of ego and alters)
 
 ## Tools 
 
