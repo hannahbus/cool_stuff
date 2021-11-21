@@ -35,6 +35,7 @@ Here is a compilation of data and online tools I deem interesting.
 ### Networks 
 
 1. CILS4EU data: https://www.cils4.eu/ 
+2. Repository: http://networkdata.ics.uci.edu/index.html
 
 ## Tools 
 
