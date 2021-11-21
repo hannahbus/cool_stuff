@@ -1,6 +1,6 @@
 # Papers 
 
-Here is a more or less random compilation of network-related papers, I came across. Selection criteria are (i) cool research question (ii) cool data, and (ii) cool methods. The list is under study revise.  
+Here is a more or less random compilation of network-related papers, I came across. Selection criteria are (i) cool research question (ii) cool data, and (ii) cool methods. The list is under study revision.  
 
 ## Measuring networks 
 
