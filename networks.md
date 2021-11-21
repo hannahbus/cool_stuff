@@ -44,6 +44,8 @@ Seek to understand social interactions dynamic within the network - reciprocity 
 
 "Learning Dynamcis in Social Networks" (2021) available [here](https://onlinelibrary.wiley.com/doi/full/10.3982/ECTA18659?campaign=woletoc)
 
+"Neighborhood effects and housing vouchers" (2021) available [here](https://onlinelibrary.wiley.com/doi/full/10.3982/QE1664?campaign=woletoc)
+
 ## Misc. 
 
 "Does the spatial distribution of social ties impact neighborhood and city attachment? Differentials among urban/rural contexts" (2021) available [here](https://www.sciencedirect.com/science/article/pii/S0378873321000824?dgcid=raven_sd_via_email#sec0030) 
