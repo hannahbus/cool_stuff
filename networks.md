@@ -46,6 +46,8 @@ Seek to understand social interactions dynamic within the network - reciprocity 
 
 "Neighborhood effects and housing vouchers" (2021) available [here](https://onlinelibrary.wiley.com/doi/full/10.3982/QE1664?campaign=woletoc)
 
+"Masking, Covid-19, and social identity" (2021) available [here](https://wol.iza.org/opinions/masking-covid-19-and-social-identity?utm_source=Adestra&utm_medium=email&utm_content=Continue%20reading&utm_campaign=IZA%20WoL%20Nov%20op%20piece%20newsletter%2021)
+
 ## Misc. 
 
 "Does the spatial distribution of social ties impact neighborhood and city attachment? Differentials among urban/rural contexts" (2021) available [here](https://www.sciencedirect.com/science/article/pii/S0378873321000824?dgcid=raven_sd_via_email#sec0030) 
