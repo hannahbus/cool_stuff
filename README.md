@@ -32,6 +32,10 @@ Here is a compilation of data and online tools I deem interesting.
 11. International Disasters Database: https://www.emdat.be/ 
 12. The Shift Project Data: https://shift.hks.harvard.edu/about/ 
 
+### Networks 
+
+1. CILS4EU data: https://www.cils4.eu/ 
+
 ## Tools 
 
 1. vaderSentiment https://github.com/cjhutto/vaderSentiment  
