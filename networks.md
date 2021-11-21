@@ -12,6 +12,10 @@ In essence, a guide on how to get network data from firms using survey methods.
 
 Compares social network snapshots to understand changes in social ties; detect a higher tendency towards homogeneity, which is not fully explained by demographic shifts. Results are consistent with findings from Hungary and the US. Tendency towards greater homogeneity has relevant societal implications. 
 
+"Identifying relationships between personal social networks and spatial mobility: A study using smartphone tracing and related surveys" (2021) available [here](https://www.sciencedirect.com/science/article/pii/S0378873321000708?dgcid=raven_sd_via_email)
+
+Study social networks and spatial mobility.
+
 ## Homophily 
 
 "Religious friendship preferences of Muslim and non-Muslim students in German schools: Bright boundaries everywhere or contingent on the proportion of Muslim classmates?" available [here](https://www.sciencedirect.com/science/article/pii/S0378873321000319?dgcid=raven_sd_via_email#bib0080) 
@@ -27,4 +31,11 @@ Studies homophily in legislative networks.
 "Vertical organizations, flat networks: Centrality and criminal collaboration in the Italian-American Mafia" available [here](https://www.sciencedirect.com/science/article/pii/S0378873321000472?dgcid=raven_sd_via_email#sec0095)
 
 Analyze networks of the Italian-American Mafia; cool data! 
+
+## Network Interaction 
+
+"Non-parametric estimation of reciprocity and triadic effects in relational event networks" (2021) available [here](https://www.sciencedirect.com/science/article/pii/S0378873321000666?dgcid=raven_sd_via_email)
+
+Seek to understand social interactions dynamic within the network - reciprocity (e.g. return a favour) - and triadic effects (form the missing link to build a triade).
+
 
