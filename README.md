@@ -31,6 +31,7 @@ Here is a compilation of data and online tools I deem interesting.
 10. Gentzkow: https://gentzkow.people.stanford.edu/data 
 11. International Disasters Database: https://www.emdat.be/ 
 12. The Shift Project Data: https://shift.hks.harvard.edu/about/ 
+13. Gallup Data: https://www.gallup.com/analytics/318923/world-poll-public-datasets.aspx
 
 ### Networks 
 
