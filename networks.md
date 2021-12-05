@@ -52,4 +52,5 @@ Seek to understand social interactions dynamic within the network - reciprocity 
 
 "Does the spatial distribution of social ties impact neighborhood and city attachment? Differentials among urban/rural contexts" (2021) available [here](https://www.sciencedirect.com/science/article/pii/S0378873321000824?dgcid=raven_sd_via_email#sec0030) 
 
+"Sectoral Media Focus and Aggregate Fluctuations" [here](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20191895) 
 
