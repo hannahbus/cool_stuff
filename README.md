@@ -11,6 +11,7 @@ Here is a compilation of data and online tools I deem interesting.
 4. Map of Extreme Weather Events: https://www.dwd.de/EN/ourservices/rcccm/int/rcccm_int_eev.html 
 5. Damage Switzerland: https://www.wsl.ch/de/naturgefahren/hochwasser-und-ueberschwemmung/unwetterschadens-datenbank.html
 6. Public perceptions of climate change and personnel experience of flooding: https://reshare.ukdataservice.ac.uk/851835/ 
+7. CDP: https://www.cdp.net/en/investor/ghg-emissions-dataset
 
 ### Crime 
 1. Profiles of Individual Radicalization in the United States (PIRUS): https://www.start.umd.edu/data-tools/profiles-individual-radicalization-united-states-pirus 
