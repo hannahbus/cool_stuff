@@ -6,7 +6,9 @@
 
 "Difference-in-Differences with a Continuous Treatment" (2021) available [here](https://arxiv.org/abs/2107.02637)
  
- Nice paper on DiD in evaluating COVID regulations: available [here](https://www.nber.org/system/files/working_papers/w29550/w29550.pdf?utm_campaign=PANTHEON_STRIPPED&amp%3Butm_medium=PANTHEON_STRIPPED&amp%3Butm_source=PANTHEON_STRIPPED) ++
+ Nice paper on DiD in evaluating COVID regulations: "RESEARCHERS' DEGREES-OF-FLEXIBILITY AND
+THE CREDIBILITY OF DIFFERENCE-IN-DIFFERENCES ESTIMATES:
+EVIDENCE FROM THE PANDEMIC POLICY EVALUATIONS" available [here](https://www.nber.org/system/files/working_papers/w29550/w29550.pdf?utm_campaign=PANTHEON_STRIPPED&amp%3Butm_medium=PANTHEON_STRIPPED&amp%3Butm_source=PANTHEON_STRIPPED) ++
  
 
 
