@@ -36,6 +36,7 @@ Here is a compilation of data and online tools I deem interesting.
 13. Gallup Data: https://www.gallup.com/analytics/318923/world-poll-public-datasets.aspx
 14. Deutsche Nationalbibliothek: https://www.dnb.de/DE/Professionell/Services/WissenschaftundForschung/DNBLab/dnblab_node.html;jsessionid=12ECE81A9997010CED3BA5C0FE437612.intranet371 
 15. Opportunity Insights: https://opportunityinsights.org/data/
+16. Open Data NRW: https://open.nrw/suche?volltext=
 
 ### Networks 
 
