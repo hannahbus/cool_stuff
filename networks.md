@@ -54,3 +54,7 @@ Seek to understand social interactions dynamic within the network - reciprocity 
 
 "Sectoral Media Focus and Aggregate Fluctuations" [here](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20191895) 
 
+## Non-networks papers 
+
+"Collusion by Algorithm: Does Better Demand Prediction Facilitate Coordination Between Sellers?" [here](https://pubsonline.informs.org/doi/10.1287/mnsc.2019.3287) 
+
