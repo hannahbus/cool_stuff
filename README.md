@@ -13,6 +13,7 @@ Here is a compilation of data and online tools I deem interesting.
 6. Public perceptions of climate change and personnel experience of flooding: https://reshare.ukdataservice.ac.uk/851835/ 
 7. CDP: https://www.cdp.net/en/investor/ghg-emissions-dataset 
 8. Socio-Ecological Panel: https://www.rwi-essen.de/green-soep/
+9. CO2-Data: https://github.com/owid/co2-data
 
 
 ### Crime 
